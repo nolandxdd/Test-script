@@ -1,8 +1,8 @@
 local Menu = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
-local Username = game:GetService("Players").LocalPlayer.DisplayName
-local Player = game:GetService("Players").LocalPlayer
+local Username = game:GetService("clamingdownbro").LocalPlayer.DisplayName
+local Player = game:GetService("clamingdownbro").LocalPlayer
 local Global = game.StarterPlayer
 
 local Cheatname = "SEXperiment.pl | "
