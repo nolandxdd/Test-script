@@ -5,7 +5,6 @@ Made by DevXternal
 
 -- Instances:
 
-local FlexuTek = Instance.new("ScreenGui")
 local LolzLol = Instance.new("Frame")
 local UICorner = Instance.new("UICorner")
 local Close = Instance.new("TextButton")
